@@ -11,9 +11,9 @@ Here you can:
 7. Users can claim their policy comfortably and the claiming processs will be fully automated.
 The automated caliming process and the no third party influence is the key feature of our platform which will be achieved by the use of our ML model:
 
-a. Auto-claim will be haivng a internal open-source damage predicting model.
-b. If in case user go through any vehicle damage and wants to calim his policy, he can do it as follows:
-    1. fill the claim form for your vehicle 
-    2. upload the damage part images.
-    3. our ML model will analyse the perticular part and will conclude whether it comes under the damage category or not.
-    4. Atlast the amount will be calculated by our automated system for the claim and will be fulfilled by the company for that user.
+1. Auto-claim will be haivng a internal open-source damage predicting model.
+2. If in case user go through any vehicle damage and wants to calim his policy, he can do it as follows:
+ 1. fill the claim form for your vehicle 
+ 2. upload the damage part images.
+ 3. our ML model will analyse the perticular part and will conclude whether it comes under the damage category or not.
+ 4. Atlast the amount will be calculated by our automated system for the claim and will be fulfilled by the company for that user.
